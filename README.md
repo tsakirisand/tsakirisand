@@ -13,24 +13,28 @@ AI-powered travel itinerary generator with personalized trip planning
 - **Tech**: Next.js, Claude API, Stripe, Supabase
 - **Features**: AI-generated itineraries, payment integration (Stripe), user authentication
 - **Status**: Approaching monetization
-- [Repo](#) | [Live Demo](#)
+
 
 ### **Expo Mobile App**
-Cross-platform mobile application
+Cross-platform mobile applications built with React Native
+- **Apps**: 
+  - **Habit Tracker** – Track daily habits and build consistency
+  - **Expense Tracker** – Manage and track spending
+  - **Live Chat App** – Real-time messaging application
 - **Tech**: React Native, Expo, TypeScript
-- **Status**: In development
-- [Repo](#)
+- **Status**: In development & testing
+
 
 ### **Automation Workflows**
 Built automated workflows and AI agents using n8n
 - **Tech**: n8n, Claude API, Telegram, WhatsApp, Google Calendar, Outlook
 - **Projects**: Medical appointment booking agent, Excel data entry workflows
-- [Learn more](#)
+
 
 ### **Client Web Projects**
 Professional websites built for local Athens businesses
-- **Huus Kaffe** – Coffee shop website | [Netlify](link) | [GitHub](link)
-- **Donkey Espresso Bar** – Espresso bar website | [Netlify](link) | [GitHub](link)
+- **Huus Kaffe** – Coffee shop website | 
+- **Donkey Espresso Bar** – Espresso bar website |
 - **Tech**: React, Next.js, Tailwind CSS, TypeScript
 
 ---
