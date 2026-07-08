@@ -6,13 +6,6 @@ I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment wi
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsakirisand&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsakirisand&theme=dark&hide_border=true&layout=compact)
-
----
-
 ## 🚀 Projects
 
 - **wanderifyAI** – AI travel itinerary generator (Next.js, Claude API, Stripe) | [Repo](#)
@@ -35,6 +28,8 @@ I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment wi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 
 **Integrations**
 ![Claude API](https://img.shields.io/badge/Anthropic%20Claude-000000?style=flat-square)
