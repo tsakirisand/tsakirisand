@@ -60,9 +60,8 @@ I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment wi
 
 ## 📱 Get in Touch
 
-- **Email**: [your@email.com](mailto:your@email.com)
-- **LinkedIn**: [@yourprofile](https://linkedin.com)
-- **Twitter/X**: [@yourhandle](https://twitter.com)
+- **Email**: [andrew07_02@outlook.com](mailto:your@email.com)
+- **Twitter/X**: [@AndreasTsak](https://twitter.com)
 
 Feel free to check out my projects! Always interested in learning new things and collaborating on cool ideas. 🚀
 
