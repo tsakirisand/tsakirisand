@@ -8,8 +8,8 @@ I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment wi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsakirisand&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsakirisand&theme=dark&hide_border=true&layout=compact)
 
 ---
 
@@ -40,6 +40,7 @@ I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment wi
 ![Claude API](https://img.shields.io/badge/Anthropic%20Claude-000000?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Other**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
