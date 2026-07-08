@@ -8,14 +8,30 @@ I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment wi
 
 ## 🚀 Projects
 
-- **wanderifyAI** – AI travel itinerary generator (Next.js, Claude API, Stripe) | [Repo](#)
-- **Expo Mobile App** – Cross-platform app in development (React Native)
-- **Client Sites** – Web projects (Huus Kaffe, Donkey Espresso Bar) | Hosted on Netlify
+### **wanderifyAI** 
+AI-powered travel itinerary generator with personalized trip planning
+- **Tech**: Next.js, Claude API, Stripe, Supabase
+- **Features**: AI-generated itineraries, payment integration (Stripe), user authentication
+- **Status**: Approaching monetization
+- [Repo](#) | [Live Demo](#)
+
+### **Expo Mobile App**
+Cross-platform mobile application
+- **Tech**: React Native, Expo, TypeScript
+- **Status**: In development
+- [Repo](#)
+
 ### **Automation Workflows**
 Built automated workflows and AI agents using n8n
 - **Tech**: n8n, Claude API, Telegram, WhatsApp, Google Calendar, Outlook
 - **Projects**: Medical appointment booking agent, Excel data entry workflows
 - [Learn more](#)
+
+### **Client Web Projects**
+Professional websites built for local Athens businesses
+- **Huus Kaffe** – Coffee shop website | [Netlify](link) | [GitHub](link)
+- **Donkey Espresso Bar** – Espresso bar website | [Netlify](link) | [GitHub](link)
+- **Tech**: React, Next.js, Tailwind CSS, TypeScript
 
 ---
 
