@@ -38,9 +38,13 @@ I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment wi
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Other**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=flat-square)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-F0DE69?style=flat-square&logo=davinciresolve&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-003366?style=flat-square&logo=roblox&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ---
 
