@@ -8,7 +8,7 @@ I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment wi
 
 ## 🚀 Projects
 
-### **wanderifyAI** 
+### **WanderifyAI** 
 AI-powered travel itinerary generator with personalized trip planning
 - **Tech**: Next.js, Claude API, Stripe, Supabase
 - **Features**: AI-generated itineraries, payment integration (Stripe), user authentication
