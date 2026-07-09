@@ -13,6 +13,7 @@ AI-powered travel itinerary generator with personalized trip planning
 - **Tech**: Next.js, Claude API, Stripe, Supabase
 - **Features**: AI-generated itineraries, payment integration (Stripe), user authentication
 - **Status**: Approaching monetization
+- **Website**: (https://wanderify.vercel.app)
 
 
 ### **Expo Mobile App**
