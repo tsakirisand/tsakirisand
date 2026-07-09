@@ -1,4 +1,4 @@
-# Hi, I'm Andreas 👨‍💻
+# Hi, I'm Andrew 👨‍💻
 
 **Developer & Student** | Building products at the intersection of **tech × business**
 
