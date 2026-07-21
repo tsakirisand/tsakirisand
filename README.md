@@ -66,7 +66,6 @@ Beyond data engineering, I build full-stack SaaS products, automation workflows,
 - **Habit Tracker** – Build consistency with daily habit management
 - **Expense Tracker** – Personal finance tracking and analytics
 - **Live Chat App** – Real-time messaging with WebSocket integration
-
 - **Tech Stack:** React Native, Expo, TypeScript, Firebase/Supabase
 - **Status:** In development & beta testing
 
