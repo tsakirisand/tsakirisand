@@ -1,101 +1,187 @@
-# Hi, I'm Andrew 👨‍💻
+# Andrew Tsakiris
 
-**Developer & Student** | Building products at the intersection of **tech × business**
+**Full-Stack Developer & Student** | Athens, Greece  
+*Building AI-powered products and enterprise solutions*
 
-I'm a 14-year-old developer from Athens, Greece. I build web apps, experiment with AI, and work on side projects while balancing school. Interested in tech, startups, and tech policy.
+[![Twitter](https://img.shields.io/badge/Twitter-@AndreasTsak-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AndreasTsak)
+[![Email](https://img.shields.io/badge/Email-andrew07_02@outlook.com-EA4335?logo=gmail&logoColor=white)](mailto:andrew07_02@outlook.com)
 
 ---
 
-## 🚀 Projects
+## 🎯 About Me
 
-### **WanderifyAI** 
-AI-powered travel itinerary generator with personalized trip planning
-- **Tech**: Next.js, Claude API, Stripe, Supabase
-- **Features**: AI-generated itineraries, payment integration (Stripe), user authentication
-- **Status**: Approaching monetization
-- **Website**: https://wanderify.vercel.app
+I'm a 14-year-old developer from Athens passionate about building scalable data systems and analytics platforms. My career trajectory is focused on **Data Engineering & Analytics** — designing ETL pipelines, data warehouses, and analytics platforms that transform raw data into business intelligence.
 
+Beyond data engineering, I build full-stack SaaS products, automation workflows, and bring ideas to market with production-ready code.
 
-### **Expo Mobile App**
-Cross-platform mobile applications built with React Native
-- **Apps**: 
-  - **Habit Tracker** – Track daily habits and build consistency
-  - **Expense Tracker** – Manage and track spending
-  - **Live Chat App** – Real-time messaging application
-- **Tech**: React Native, Expo, TypeScript
-- **Status**: In development & testing
+**Career Focus:** 🏗️ Data Engineering | 📊 Analytics Engineering | 🤖 AI-Powered Products | 🔐 Tech Policy
 
+---
 
-### **Automation Workflows**
-Built automated workflows and AI agents using n8n
-- **Tech**: n8n, Claude API, Telegram, WhatsApp, Google Calendar, Outlook
-- **Projects**: Medical appointment booking agent, Excel data entry workflows
+## 🚀 Featured Projects
 
+### **Greek Tourism Analytics Dashboard** – Enterprise Data Engineering & Analytics
+*Production-grade data platform for Greek tourism statistics (2019-2024) | 180K+ records processed*
 
-### **Client Web Projects**
-Professional websites built for local Athens businesses
-- **Huus Kaffe** – Coffee shop website | 
-- **Donkey Espresso Bar** – Espresso bar website |
-- **Tech**: React, Next.js, Tailwind CSS, TypeScript
+- **Tech Stack:** Python 3.10+, PostgreSQL, SQLAlchemy, Streamlit, Plotly, Docker
+- **Data Engineering:**
+  - ETL Pipeline: API ingestion → PostgreSQL data warehouse (20M+ metrics)
+  - Database schema design & optimization for time-series analytics
+  - Data validation & quality assurance pipeline
+  - Automated data extraction & transformation workflows
+- **Analytics & Visualization:**
+  - Executive KPI Dashboard (Arrivals, Overnights, Receipts in Billions EUR)
+  - Multi-year chronological trend analysis
+  - GeoJSON-powered choropleth mapping (13 Greek NUTS 2 regions)
+  - Regional decomposition & comparative analysis
+- **DevOps & Production:**
+  - Containerized architecture (Docker & Docker Compose)
+  - Cloud-ready deployment pipeline
+  - Excel-optimized data export (UTF-8-SIG, regional locale support)
+  - Custom CSS frontend (Glassmorphism, Navy theme)
+- **Status:** ✅ Fully functional, production-ready, cloud-deployed
+- **Repository:** [GitHub](https://github.com/tsakirisand/Greek-Tourism-Analytics-Project)
+
+---
+
+### **WanderifyAI** – AI-Powered SaaS with Data Integration
+*AI-powered travel itinerary generator with personalized recommendations*
+
+- **Tech Stack:** Next.js, Claude API, Stripe, Supabase, TypeScript
+- **Key Features:** 
+  - AI-generated personalized itineraries
+  - User behavior analytics & engagement tracking
+  - Payment processing & subscription management
+  - User authentication & profile management
+- **Data Components:** User analytics, itinerary data storage, recommendation engine
+- **Status:** Approaching monetization
+- **Website:** [wanderify.vercel.app](https://wanderify.vercel.app)
+
+---
+
+### **React Native Mobile Applications** – Cross-Platform Development
+*Production mobile apps built with React Native & Expo*
+
+**Included Apps:**
+- **Habit Tracker** – Build consistency with daily habit management
+- **Expense Tracker** – Personal finance tracking and analytics
+- **Live Chat App** – Real-time messaging with WebSocket integration
+
+- **Tech Stack:** React Native, Expo, TypeScript, Firebase/Supabase
+- **Status:** In development & beta testing
+
+---
+
+### **Client Web Projects** – Professional Web Development
+*Full-stack websites for local Athens businesses*
+
+- **Huus Kaffe** – Specialty coffee shop website | [Visit](https://huuskaffe.gr)
+- **Donkey Espresso Bar** – Premium espresso bar website | [Visit](https://donkeyespresso.gr)
+- **Tech Stack:** React, Next.js, Tailwind CSS, TypeScript, Responsive Design
+
+---
+
+### **AI Automation Workflows** – Enterprise Automation
+*Intelligent automation solutions using n8n & Claude API*
+
+- **Projects:**
+  - Medical Appointment Booking Agent (Telegram + Google Calendar integration)
+  - Automated Excel Data Entry Workflows (Outlook + n8n)
+  - WhatsApp Business Automation
+- **Tech Stack:** n8n, Claude API, Python scripting
+- **Status:** Production workflows deployed
+
+---
+
+## 🏗️ Data Engineering Specialization
+
+**Proven Capabilities:**
+- **ETL Architecture:** Designed and implemented production ETL pipeline for Greek Tourism Analytics (API → PostgreSQL data warehouse)
+- **Data Warehousing:** Multi-dimensional schema design, time-series optimization, efficient query patterns
+- **Data Pipeline:** Automated data extraction, transformation, validation, and loading workflows
+- **Analytics Dashboards:** Built executive analytics platforms with KPI tracking, drill-down analysis, and geospatial visualization
+- **SQL & Database Optimization:** Complex queries, indexing strategies, performance tuning for analytical workloads
+- **Data Quality:** Implemented validation frameworks and data quality assurance processes
+- **Cloud Deployment:** Docker containerization for portable, scalable data infrastructure
+
+**Currently Learning:**
+- Advanced SQL optimization & execution plan analysis
+- Apache Spark for distributed data processing
+- Cloud data warehouses (BigQuery, Snowflake, Redshift)
+- dbt (data build tool) for analytics engineering
+- Real-time data streaming (Kafka, Kafka Streams)
+- Advanced dimensional modeling & slowly changing dimensions
 
 ---
 
 ## 💻 Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Tools**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-
-**Integrations**
-![Claude API](https://img.shields.io/badge/Anthropic%20Claude-000000?style=flat-square)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Other**
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-F0DE69?style=flat-square&logo=davinciresolve&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-003366?style=flat-square&logo=roblox&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+| Category | Technologies |
+|----------|---------------|
+| **Data Engineering** | Python (Pandas, SQLAlchemy), PostgreSQL, ETL pipelines, data warehousing |
+| **Data Analysis & Visualization** | Plotly, Streamlit, statistical analysis, GeoJSON, data modeling |
+| **Databases & Storage** | PostgreSQL, Supabase, Firebase, time-series optimization |
+| **Backend & APIs** | Python, Node.js, FastAPI, Next.js API Routes |
+| **Frontend** | React, Next.js, React Native, Expo, Tailwind CSS, TypeScript |
+| **AI & Automation** | Claude API, n8n, LangChain, prompt engineering |
+| **DevOps & Infrastructure** | Docker, Docker Compose, Git, Vercel, GitHub Actions, cloud deployment |
+| **Game Dev** | Unity, Roblox Studio |
+| **Hardware** | ESP32, Arduino, IoT integrations |
+| **Integrations** | Stripe, Telegram, WhatsApp, Google Calendar, Outlook, Meta Business Suite |
 
 ---
 
-## 🎯 Interests
+## 🎓 Skills & Expertise
 
-- 🤖 AI & automation
-- 💻 Full-stack development
-- 🚀 Building products
-- 🔐 Tech policy
-- 🎬 Video editing & content
+**Data Engineering & Analytics:**
+- 🏗️ ETL pipeline design & implementation (API ingestion → data warehouse)
+- 📊 Database design & SQL optimization (PostgreSQL, time-series optimization)
+- 📈 Data modeling & analytical database architecture
+- 📉 Statistical analysis & exploratory data analysis (EDA)
+- 🗺️ Geospatial data processing & visualization (GeoJSON, choropleth maps)
+- 🔄 Data quality assurance & validation frameworks
+- 📦 Data warehousing concepts & fact/dimension tables
+
+**Full-Stack Development:**
+- Full-stack web development (Next.js, React, Node.js)
+- Mobile app development (React Native)
+- Database design & optimization
+- API design & RESTful architecture
+
+**Business & Innovation:**
+- 🤖 AI & automation architecture
+- 🚀 Product development & monetization strategies
+- 🔐 Tech policy & digital regulation
+- 💼 Data-driven product strategy
+- 📊 Business intelligence & analytics fundamentals
+
+**Content & Communications:**
+- 🎬 Video editing & production
+- 📱 Social media content creation
 
 ---
 
-## 📱 Get in Touch
+## 📈 Learning Path & Next Steps
 
-- **Email**: [andrew07_02@outlook.com](mailto:your@email.com)
-- **Twitter/X**: [@AndreasTsak](https://twitter.com)
-
-Feel free to check out my projects! Always interested in learning new things and collaborating on cool ideas. 🚀
+**Data Engineering Focus:**
+- 📚 Advanced SQL & query optimization (indexing, execution plans)
+- 🔄 Building streaming data pipelines (Apache Kafka, real-time ETL)
+- 🏗️ Data warehouse architecture (dimensional modeling, slowly changing dimensions)
+- 🐘 Big data frameworks (Apache Spark, PySpark)
+- ☁️ Cloud data platforms (AWS Redshift, BigQuery, Snowflake)
+- 🎯 dbt (data build tool) for analytics engineering
+- 📊 Advanced analytics & machine learning integration
 
 ---
 
-## 📝 What I'm Working On
+## 📬 Get In Touch
 
-- 🔧 Building side projects & experimenting with AI
-- 📱 Learning React Native & mobile development
-- 💻 Web development & learning new tech
-- 📚 Exploring tech policy & startup ideas
+- **Email:** [andrew07_02@outlook.com](mailto:andrew07_02@outlook.com)
+- **Twitter/X:** [@AndreasTsak](https://twitter.com/AndreasTsak)
+- **GitHub:** [@tsakirisand](https://github.com/tsakirisand)
+
+> Always interested in learning, collaborating on ambitious projects, and discussing technology, startups, and the future of digital innovation.
+
+---
+
+*Last updated: July 2026 | Based in Athens, Greece*
