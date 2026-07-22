@@ -9,6 +9,14 @@
 
 ---
 
+## 🎯 About
+
+14-year-old developer focused on **Data Engineering & Analytics**. I design ETL pipelines, data warehouses, and analytics platforms that transform raw data into business intelligence. I also build full-stack SaaS products and automation workflows.
+
+**Focus:** 🏗️ Data Engineering | 📊 Analytics | 🤖 AI Products | 🔐 Tech Policy
+
+---
+
 ## 🛠️ What I Can Build
 
 **Data Engineering & Analytics** – ETL pipelines, data warehouses, analytics dashboards, geospatial visualization
@@ -26,14 +34,6 @@
 **Business Integrations** – Stripe, Google Calendar, Outlook, Telegram, WhatsApp, Meta Business Suite
 
 **Websites for Business** – Professional sites, landing pages, e-commerce, SEO optimization
-
----
-
-## 🎯 About
-
-14-year-old developer focused on **Data Engineering & Analytics**. I design ETL pipelines, data warehouses, and analytics platforms that transform raw data into business intelligence. I also build full-stack SaaS products and automation workflows.
-
-**Focus:** 🏗️ Data Engineering | 📊 Analytics | 🤖 AI Products | 🔐 Tech Policy
 
 ---
 
