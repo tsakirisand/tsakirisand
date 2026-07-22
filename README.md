@@ -47,7 +47,7 @@ Production-grade data analytics platform | Python, PostgreSQL, Streamlit, Docker
 - GeoJSON choropleth mapping (13 Greek regions)
 - Cloud-ready containerized deployment
 
-🔗 [https://greek-tourism-analytics-project.onrender.com](https://greek-tourism-analytics-project.onrender.com)
+🔗 [Lve Demo](https://greek-tourism-analytics-project.onrender.com)
 🔗 [GitHub](https://github.com/tsakirisand/Greek-Tourism-Analytics-Project)
 
 ---
