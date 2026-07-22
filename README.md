@@ -1,186 +1,120 @@
 # Andrew Tsakiris
 
-**Full-Stack Developer & Student** | Athens, Greece  
-*Building AI-powered products and enterprise solutions*
+**Data Engineer & Full-Stack Developer** | Athens, Greece  
+*Building scalable data systems and AI-powered products*
 
 [![Twitter](https://img.shields.io/badge/Twitter-@AndreasTsak-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AndreasTsak)
 [![Email](https://img.shields.io/badge/Email-andrew07_02@outlook.com-EA4335?logo=gmail&logoColor=white)](mailto:andrew07_02@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@tsakirisand-black?logo=github)](https://github.com/tsakirisand)
 
 ---
 
-## 🎯 About Me
+## 🎯 About
 
-I'm a 14-year-old developer from Athens passionate about building scalable data systems and analytics platforms. My career trajectory is focused on **Data Engineering & Analytics** — designing ETL pipelines, data warehouses, and analytics platforms that transform raw data into business intelligence.
+14-year-old developer focused on **Data Engineering & Analytics**. I design ETL pipelines, data warehouses, and analytics platforms that transform raw data into business intelligence. I also build full-stack SaaS products and automation workflows.
 
-Beyond data engineering, I build full-stack SaaS products, automation workflows, and bring ideas to market with production-ready code.
-
-**Career Focus:** 🏗️ Data Engineering | 📊 Analytics Engineering | 🤖 AI-Powered Products | 🔐 Tech Policy
+**Focus:** 🏗️ Data Engineering | 📊 Analytics | 🤖 AI Products | 🔐 Tech Policy
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### **Greek Tourism Analytics Dashboard** – Enterprise Data Engineering & Analytics
-*Production-grade data platform for Greek tourism statistics (2019-2024) | 180K+ records processed*
+### **Greek Tourism Analytics Dashboard**
+Production-grade data analytics platform | Python, PostgreSQL, Streamlit, Docker
 
-- **Tech Stack:** Python 3.10+, PostgreSQL, SQLAlchemy, Streamlit, Plotly, Docker
-- **Data Engineering:**
-  - ETL Pipeline: API ingestion → PostgreSQL data warehouse (20M+ metrics)
-  - Database schema design & optimization for time-series analytics
-  - Data validation & quality assurance pipeline
-  - Automated data extraction & transformation workflows
-- **Analytics & Visualization:**
-  - Executive KPI Dashboard (Arrivals, Overnights, Receipts in Billions EUR)
-  - Multi-year chronological trend analysis
-  - GeoJSON-powered choropleth mapping (13 Greek NUTS 2 regions)
-  - Regional decomposition & comparative analysis
-- **DevOps & Production:**
-  - Containerized architecture (Docker & Docker Compose)
-  - Cloud-ready deployment pipeline
-  - Excel-optimized data export (UTF-8-SIG, regional locale support)
-  - Custom CSS frontend (Glassmorphism, Navy theme)
-- **Status:** ✅ Fully functional, production-ready, cloud-deployed
-- **Repository:** [GitHub](https://github.com/tsakirisand/Greek-Tourism-Analytics-Project)
+- ETL pipeline: API → PostgreSQL data warehouse (20M+ metrics)
+- Executive KPI dashboard with regional analysis
+- GeoJSON choropleth mapping (13 Greek regions)
+- Cloud-ready containerized deployment
+
+🔗 [https://greek-tourism-analytics-project.onrender.com](https://greek-tourism-analytics-project.onrender.com)
+🔗 [GitHub](https://github.com/tsakirisand/Greek-Tourism-Analytics-Project)
 
 ---
 
-### **WanderifyAI** – AI-Powered SaaS with Data Integration
-*AI-powered travel itinerary generator with personalized recommendations*
+### **WanderifyAI**
+AI travel itinerary generator | Next.js, Claude API, Stripe, Supabase
 
-- **Tech Stack:** Next.js, Claude API, Stripe, Supabase, TypeScript
-- **Key Features:** 
-  - AI-generated personalized itineraries
-  - User behavior analytics & engagement tracking
-  - Payment processing & subscription management
-  - User authentication & profile management
-- **Data Components:** User analytics, itinerary data storage, recommendation engine
-- **Status:** Approaching monetization
-- **Website:** [wanderify.vercel.app](https://wanderify.vercel.app)
+- AI-powered personalized trip planning
+- Payment & subscription management
+- User analytics & engagement tracking
+- Approaching monetization
 
----
+🔗 [wanderify.vercel.app](https://wanderify.vercel.app)
+🔗 [GitHub](https://github.com/tsakirisand/WanderifyAI)
 
-### **React Native Mobile Applications** – Cross-Platform Development
-*Production mobile apps built with React Native & Expo*
-
-**Included Apps:**
-- **Habit Tracker** – Build consistency with daily habit management
-- **Expense Tracker** – Personal finance tracking and analytics
-- **Live Chat App** – Real-time messaging with WebSocket integration
-- **Tech Stack:** React Native, Expo, TypeScript, Firebase/Supabase
-- **Status:** In development & beta testing
+---)
 
 ---
 
-### **Client Web Projects** – Professional Web Development
-*Full-stack websites for local Athens businesses*
+---
 
-- **Huus Kaffe** – Specialty coffee shop website | [Visit](https://huuskaffe.gr)
-- **Donkey Espresso Bar** – Premium espresso bar website | [Visit](https://donkeyespresso.gr)
-- **Tech Stack:** React, Next.js, Tailwind CSS, TypeScript, Responsive Design
+### **React Native Apps**
+Cross-platform mobile development | React Native, Expo
+
+- Habit Tracker, Expense Tracker, Live Chat App
+- In development & beta testing
 
 ---
 
-### **AI Automation Workflows** – Enterprise Automation
-*Intelligent automation solutions using n8n & Claude API*
+### **Client Web Projects**
+Professional websites for Athens businesses
 
-- **Projects:**
-  - Medical Appointment Booking Agent (Telegram + Google Calendar integration)
-  - Automated Excel Data Entry Workflows (Outlook + n8n)
-  - WhatsApp Business Automation
-- **Tech Stack:** n8n, Claude API, Python scripting
-- **Status:** Production workflows deployed
+- Huus Kaffe, Donkey Espresso Bar
+- React, Next.js, Tailwind CSS
 
 ---
 
-## 🏗️ Data Engineering Specialization
+### **AI Automation Workflows**
+Enterprise automation solutions | n8n, Claude API
 
-**Proven Capabilities:**
-- **ETL Architecture:** Designed and implemented production ETL pipeline for Greek Tourism Analytics (API → PostgreSQL data warehouse)
-- **Data Warehousing:** Multi-dimensional schema design, time-series optimization, efficient query patterns
-- **Data Pipeline:** Automated data extraction, transformation, validation, and loading workflows
-- **Analytics Dashboards:** Built executive analytics platforms with KPI tracking, drill-down analysis, and geospatial visualization
-- **SQL & Database Optimization:** Complex queries, indexing strategies, performance tuning for analytical workloads
-- **Data Quality:** Implemented validation frameworks and data quality assurance processes
-- **Cloud Deployment:** Docker containerization for portable, scalable data infrastructure
+- Medical appointment booking, data entry, WhatsApp automation
+- Production deployed
 
-**Currently Learning:**
-- Advanced SQL optimization & execution plan analysis
-- Apache Spark for distributed data processing
+---
+
+## 🏗️ Data Engineering Focus
+
+**Proven Skills:**
+- ETL architecture & pipeline design
+- Data warehouse design & optimization
+- SQL & performance tuning
+- Analytics dashboards & visualization
+- Data quality & validation frameworks
+
+**Learning:**
+- Apache Spark & distributed processing
 - Cloud data warehouses (BigQuery, Snowflake, Redshift)
-- dbt (data build tool) for analytics engineering
-- Real-time data streaming (Kafka, Kafka Streams)
-- Advanced dimensional modeling & slowly changing dimensions
+- dbt for analytics engineering
+- Real-time streaming (Kafka)
+- Advanced dimensional modeling
 
 ---
 
 ## 💻 Tech Stack
 
-| Category | Technologies |
-|----------|---------------|
-| **Data Engineering** | Python (Pandas, SQLAlchemy), PostgreSQL, ETL pipelines, data warehousing |
-| **Data Analysis & Visualization** | Plotly, Streamlit, statistical analysis, GeoJSON, data modeling |
-| **Databases & Storage** | PostgreSQL, Supabase, Firebase, time-series optimization |
-| **Backend & APIs** | Python, Node.js, FastAPI, Next.js API Routes |
-| **Frontend** | React, Next.js, React Native, Expo, Tailwind CSS, TypeScript |
-| **AI & Automation** | Claude API, n8n, LangChain, prompt engineering |
-| **DevOps & Infrastructure** | Docker, Docker Compose, Git, Vercel, GitHub Actions, cloud deployment |
-| **Game Dev** | Unity, Roblox Studio |
-| **Hardware** | ESP32, Arduino, IoT integrations |
-| **Integrations** | Stripe, Telegram, WhatsApp, Google Calendar, Outlook, Meta Business Suite |
+**Data Engineering:** Python, PostgreSQL, SQLAlchemy, ETL pipelines, data warehousing
+
+**Frontend:** React, Next.js, React Native, Tailwind CSS, TypeScript
+
+**Backend & Tools:** Node.js, FastAPI, Docker, Git, Vercel
+
+**AI & Integrations:** Claude API, n8n, Stripe, Telegram, WhatsApp, Google Calendar, Outlook
+
+**Databases:** PostgreSQL, Supabase, Firebase
+
+**Other:** Unity, Roblox, ESP32, Arduino
 
 ---
 
-## 🎓 Skills & Expertise
+## 📫 Get In Touch
 
-**Data Engineering & Analytics:**
-- 🏗️ ETL pipeline design & implementation (API ingestion → data warehouse)
-- 📊 Database design & SQL optimization (PostgreSQL, time-series optimization)
-- 📈 Data modeling & analytical database architecture
-- 📉 Statistical analysis & exploratory data analysis (EDA)
-- 🗺️ Geospatial data processing & visualization (GeoJSON, choropleth maps)
-- 🔄 Data quality assurance & validation frameworks
-- 📦 Data warehousing concepts & fact/dimension tables
+- **Email:** andrew07_02@outlook.com
+- **Twitter/X:** @AndreasTsak
+- **GitHub:** @tsakirisand
 
-**Full-Stack Development:**
-- Full-stack web development (Next.js, React, Node.js)
-- Mobile app development (React Native)
-- Database design & optimization
-- API design & RESTful architecture
-
-**Business & Innovation:**
-- 🤖 AI & automation architecture
-- 🚀 Product development & monetization strategies
-- 🔐 Tech policy & digital regulation
-- 💼 Data-driven product strategy
-- 📊 Business intelligence & analytics fundamentals
-
-**Content & Communications:**
-- 🎬 Video editing & production
-- 📱 Social media content creation
+Always interested in learning, collaborating, and discussing tech & startups. 🚀
 
 ---
 
-## 📈 Learning Path & Next Steps
-
-**Data Engineering Focus:**
-- 📚 Advanced SQL & query optimization (indexing, execution plans)
-- 🔄 Building streaming data pipelines (Apache Kafka, real-time ETL)
-- 🏗️ Data warehouse architecture (dimensional modeling, slowly changing dimensions)
-- 🐘 Big data frameworks (Apache Spark, PySpark)
-- ☁️ Cloud data platforms (AWS Redshift, BigQuery, Snowflake)
-- 🎯 dbt (data build tool) for analytics engineering
-- 📊 Advanced analytics & machine learning integration
-
----
-
-## 📬 Get In Touch
-
-- **Email:** [andrew07_02@outlook.com](mailto:andrew07_02@outlook.com)
-- **Twitter/X:** [@AndreasTsak](https://twitter.com/AndreasTsak)
-- **GitHub:** [@tsakirisand](https://github.com/tsakirisand)
-
-> Always interested in learning, collaborating on ambitious projects, and discussing technology, startups, and the future of digital innovation.
-
----
-
-*Last updated: July 2026 | Based in Athens, Greece*
+*Last updated: July 2026 | Athens, Greece*
