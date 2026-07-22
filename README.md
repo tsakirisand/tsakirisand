@@ -9,6 +9,26 @@
 
 ---
 
+## 🛠️ What I Can Build
+
+**Data Engineering & Analytics** – ETL pipelines, data warehouses, analytics dashboards, geospatial visualization
+
+**Web Applications** – Next.js SaaS, React apps, REST APIs, Stripe payments, authentication
+
+**Mobile Apps** – React Native & Expo, cross-platform development, real-time features
+
+**AI & Automation** – Claude API integration, n8n workflows, chatbots, API integrations
+
+**Backend & Database** – PostgreSQL design, API development, Supabase/Firebase, performance optimization
+
+**DevOps** – Docker, cloud deployment (Vercel, Render, AWS), CI/CD pipelines
+
+**Business Integrations** – Stripe, Google Calendar, Outlook, Telegram, WhatsApp, Meta Business Suite
+
+**Websites for Business** – Professional sites, landing pages, e-commerce, SEO optimization
+
+---
+
 ## 🎯 About
 
 14-year-old developer focused on **Data Engineering & Analytics**. I design ETL pipelines, data warehouses, and analytics platforms that transform raw data into business intelligence. I also build full-stack SaaS products and automation workflows.
@@ -73,24 +93,6 @@ Enterprise automation solutions | n8n, Claude API
 
 ---
 
-## 🏗️ Data Engineering Focus
-
-**Proven Skills:**
-- ETL architecture & pipeline design
-- Data warehouse design & optimization
-- SQL & performance tuning
-- Analytics dashboards & visualization
-- Data quality & validation frameworks
-
-**Learning:**
-- Apache Spark & distributed processing
-- Cloud data warehouses (BigQuery, Snowflake, Redshift)
-- dbt for analytics engineering
-- Real-time streaming (Kafka)
-- Advanced dimensional modeling
-
----
-
 ## 💻 Tech Stack
 
 **Data Engineering:** Python, PostgreSQL, SQLAlchemy, ETL pipelines, data warehousing
@@ -103,17 +105,7 @@ Enterprise automation solutions | n8n, Claude API
 
 **Databases:** PostgreSQL, Supabase, Firebase
 
-**Other:** Unity, Roblox, ESP32, Arduino
-
----
-
-## 📫 Get In Touch
-
-- **Email:** andrew07_02@outlook.com
-- **Twitter/X:** @AndreasTsak
-- **GitHub:** @tsakirisand
-
-Always interested in learning, collaborating, and discussing tech & startups. 🚀
+**Other:** Unity, Roblox Studio, ESP32, Arduino
 
 ---
 
