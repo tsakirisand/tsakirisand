@@ -63,10 +63,6 @@ AI travel itinerary generator | Next.js, Claude API, Stripe, Supabase
 🔗 [wanderify.vercel.app](https://wanderify.vercel.app)
 🔗 [GitHub](https://github.com/tsakirisand/WanderifyAI)
 
----)
-
----
-
 ---
 
 ### **React Native Apps**
