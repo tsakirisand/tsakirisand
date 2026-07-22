@@ -2,6 +2,12 @@
 
 ---
 
+[![Twitter](https://img.shields.io/badge/Twitter-@AndreasTsak-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AndreasTsak)
+[![Email](https://img.shields.io/badge/Email-andrew07_02@outlook.com-EA4335?logo=gmail&logoColor=white)](mailto:andrew07_02@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@tsakirisand-black?logo=github)](https://github.com/tsakirisand)
+
+---
+
 ## 👋 About
 
 I'm a full-stack developer focused on **data engineering, web applications, and AI products**. I design ETL pipelines that handle millions of data points, build SaaS products from scratch, and create automation workflows that solve real business problems.
