@@ -2,6 +2,7 @@
 ---
 [![Twitter](https://img.shields.io/badge/Twitter-@AndreasTsak-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AndreasTsak)
 [![Email](https://img.shields.io/badge/Email-andrew07_02@outlook.com-EA4335?logo=gmail&logoColor=white)](mailto:andrew07_02@outlook.com)
+[![Email](https://img.shields.io/badge/Email-andreast0702@icloud.com-EA4335?logo=gmail&logoColor=white)](mailto:andreast0702@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@tsakirisand-black?logo=github)](https://github.com/tsakirisand)
 ---
 ## 👋 About
@@ -34,17 +35,22 @@ RESTful APIs with subscription management, payment processing, and rate limiting
 
 ---
 ## 💻 Tech Stack
-*Data & Backend:** Python, PostgreSQL, FastAPI, Node.js, SQLAlchemy, ETL pipelines  
-*Frontend:** React, Next.js, React Native, Tailwind CSS, TypeScript  
-*AI & Automation:** Claude API, n8n, Stripe integration, webhook systems  
-*DevOps:** Docker, Vercel, Render, AWS, CI/CD pipelines  
-*Databases:** PostgreSQL, Supabase, Firebase  
-*Other:** WebSockets, REST APIs, payment processing, real-time features
+
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | Python, Node.js, FastAPI, Express |
+| **Data** | PostgreSQL, Supabase, Firebase, ETL pipelines, SQLAlchemy |
+| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
+| **Mobile** | React Native (Expo) |
+| **AI & APIs** | Claude API, n8n, Stripe, webhook systems |
+| **DevOps** | Docker, Vercel, Render, AWS, CI/CD |
+| **Real-time** | WebSockets, REST APIs, payment processing |
 ---
 ## 🎯 What I Value
-✅ *Shipping over perfection** – Done and live beats perfect and hidden  
-✅ *Real users** – Every project has actual usage or client work  
-✅ *Scalable design** – Systems that grow with demand  
-✅ *Clear communication** – Code and projects that are easy to understand  
+
+- **Shipping over perfection** — Done and live beats perfect and hidden
+- **Real users** — Every project has actual usage or client work
+- **Scalable design** — Systems that grow with demand  
+- **Clear communication** — Code and projects that are easy to understand  
 ---
 **Last updated:** July 2026 | Always building something new
