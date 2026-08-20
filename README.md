@@ -34,17 +34,17 @@ RESTful APIs with subscription management, payment processing, and rate limiting
 
 ---
 ## 💻 Tech Stack
-**Data & Backend:** Python, PostgreSQL, FastAPI, Node.js, SQLAlchemy, ETL pipelines  
-**Frontend:** React, Next.js, React Native, Tailwind CSS, TypeScript  
-**AI & Automation:** Claude API, n8n, Stripe integration, webhook systems  
-**DevOps:** Docker, Vercel, Render, AWS, CI/CD pipelines  
-**Databases:** PostgreSQL, Supabase, Firebase  
-**Other:** WebSockets, REST APIs, payment processing, real-time features
+*Data & Backend:** Python, PostgreSQL, FastAPI, Node.js, SQLAlchemy, ETL pipelines  
+*Frontend:** React, Next.js, React Native, Tailwind CSS, TypeScript  
+*AI & Automation:** Claude API, n8n, Stripe integration, webhook systems  
+*DevOps:** Docker, Vercel, Render, AWS, CI/CD pipelines  
+*Databases:** PostgreSQL, Supabase, Firebase  
+*Other:** WebSockets, REST APIs, payment processing, real-time features
 ---
 ## 🎯 What I Value
-✅ **Shipping over perfection** – Done and live beats perfect and hidden  
-✅ **Real users** – Every project has actual usage or client work  
-✅ **Scalable design** – Systems that grow with demand  
-✅ **Clear communication** – Code and projects that are easy to understand  
+✅ *Shipping over perfection** – Done and live beats perfect and hidden  
+✅ *Real users** – Every project has actual usage or client work  
+✅ *Scalable design** – Systems that grow with demand  
+✅ *Clear communication** – Code and projects that are easy to understand  
 ---
 **Last updated:** July 2026 | Always building something new
