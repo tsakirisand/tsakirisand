@@ -4,6 +4,8 @@
 [![Email](https://img.shields.io/badge/Email-andrew07_02@outlook.com-EA4335?logo=gmail&logoColor=white)](mailto:andrew07_02@outlook.com)
 [![Email](https://img.shields.io/badge/Email-andreast0702@icloud.com-EA4335?logo=gmail&logoColor=white)](mailto:andreast0702@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@tsakirisand-black?logo=github)](https://github.com/tsakirisand)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@tsakirisand-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tsakirisand)
+
 ---
 ##  About
 I'm a full-stack developer focused on **data engineering, web applications, and AI products**. I design ETL pipelines that handle millions of data points, build SaaS products from scratch, and create automation workflows that solve real business problems.
