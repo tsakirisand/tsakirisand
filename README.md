@@ -5,14 +5,14 @@
 [![Email](https://img.shields.io/badge/Email-andreast0702@icloud.com-EA4335?logo=gmail&logoColor=white)](mailto:andreast0702@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@tsakirisand-black?logo=github)](https://github.com/tsakirisand)
 ---
-## 👋 About
+##  About
 I'm a full-stack developer focused on **data engineering, web applications, and AI products**. I design ETL pipelines that handle millions of data points, build SaaS products from scratch, and create automation workflows that solve real business problems.
 
-- 🌍 Based in **Athens, Greece**
-- ✉️ Contact: [andrew07_02@outlook.com](mailto:andrew07_02@outlook.com)
-- 👥 Open to collaborating on interesting projects
+-  Based in **Athens, Greece**
+-  Contact: [andrew07_02@outlook.com](mailto:andrew07_02@outlook.com)
+-  Open to collaborating on interesting projects
 ---
-## 🚀 What I Ship
+##  What I Ship
 
 **Data & Analytics**  
 Production systems processing millions of data points. Built ETL pipelines pulling from APIs → data warehouses → dashboards with real-time insights and executive KPIs.
@@ -33,7 +33,7 @@ Native and cross-platform mobile apps built with React Native (Expo). Responsive
 RESTful APIs with subscription management, payment processing, and rate limiting. Built for scale with proper authentication, monitoring, and documentation.
 
 ---
-## 💻 Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -45,7 +45,7 @@ RESTful APIs with subscription management, payment processing, and rate limiting
 | **DevOps** | Docker, Vercel, Render, AWS, CI/CD |
 | **Real-time** | WebSockets, REST APIs, payment processing |
 ---
-## 🎯 What I Value
+##  What I Value
 
 - **Shipping over perfection** — Done and live beats perfect and hidden
 - **Real users** — Every project has actual usage or client work
