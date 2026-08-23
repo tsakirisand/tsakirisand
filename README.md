@@ -8,9 +8,8 @@
 
 ---
 ##  About
-I'm a full-stack developer focused on **data engineering, web applications, and AI products**. I design ETL pipelines that handle millions of data points, build SaaS products from scratch, and create automation workflows that solve real business problems.
-
--  Based in **Athens, Greece**
+I'm an aspiring full-stack developer and student focused on **data engineering, web applications, and AI products**. I design ETL pipelines that handle millions of data points, build SaaS products from scratch, and create automation workflows that solve real business problems.
+-  Student & developer based in **Athens, Greece**
 -  Contact: [andrew07_02@outlook.com](mailto:andrew07_02@outlook.com)
 -  Open to collaborating on interesting projects
 ---
