@@ -1,3 +1,5 @@
+![Andrew Tsakiris](./banner.png)
+
 # Andrew Tsakiris
 
 ---
