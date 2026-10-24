@@ -1,6 +1,9 @@
- ![Andrew Tsakiris](banner.PNG)
 
 # Andrew Tsakiris
+
+---
+
+![Andrew Tsakiris](banner.PNG)
 
 ---
 
