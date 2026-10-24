@@ -1,4 +1,4 @@
-![Andrew Tsakiris](./banner.png)
+ ![Andrew Tsakiris](./banner.png)
 
 # Andrew Tsakiris
 
