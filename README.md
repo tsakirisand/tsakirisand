@@ -1,3 +1,5 @@
+![Andrew Tsakiris — Aspiring Data Engineer](banner.png)
+
 # Andrew Tsakiris
 
 ---
