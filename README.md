@@ -3,7 +3,7 @@
 
 ---
 
-![Andrew Tsakiris](banner.PNG)
+![Andrew Tsakiris](banner.png)
 
 ---
 
