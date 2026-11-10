@@ -13,7 +13,7 @@ I work primarily with **Python, SQL, PostgreSQL, PySpark, Apache Airflow, Docker
 - Focused on **Data Engineering & Backend Development**
 - Building **ETL pipelines, analytics systems, and data-driven applications**
 - Open to collaborating on interesting projects
-- Contact: andrew07_02@outlook.com
+- Contact: tsakirisand@hotmail.com
 
 ---
 
