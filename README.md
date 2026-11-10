@@ -3,10 +3,6 @@
 
 ---
 
-![Andrew Tsakiris](banner.png)
-
----
-
 ## About
 
 I'm an aspiring **Data Engineer** and student based in **Athens, Greece**, focused on building scalable data pipelines, analytics systems, and data-driven applications.
