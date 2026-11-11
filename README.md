@@ -32,9 +32,9 @@ I believe in **learning by building** — turning ideas into real projects and c
 
 ## Featured Projects
 
-A selection of projects exploring **data engineering, backend development, and practical software solutions**.
-
-*Selected projects coming soon.*
+- [Greece Data Analytics](https://github.com/tsakirisand/Greece-Data-Analytics) — Public data platform with quality monitoring and an interactive dashboard.
+- [NYC Taxi Data Project](https://github.com/tsakirisand/NYC-Taxi-Data-Project) — End-to-end data pipeline and analytics portal built with Airflow, PySpark, SQL, and Streamlit.
+- [15Connect](https://github.com/tsakirisand/15connect) — A digital platform for Greek high school councils, with announcements, events, and student suggestions.
 
 ---
 
@@ -54,3 +54,4 @@ Open to collaborating, exchanging ideas, and building interesting projects.
 
 - **Email:** [tsakirisand@hotmail.com](mailto:tsakirisand@hotmail.com)
 - **GitHub:** [github.com/tsakirisand](https://github.com/tsakirisand)
+- **LinkedIn** [tsakirisand](https://www.linkedin.com/in/andreas-tsakiris-884495430)
