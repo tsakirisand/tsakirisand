@@ -34,8 +34,7 @@ I believe in **learning by building** — turning ideas into real projects and c
 
 - [Greece Data Analytics](https://github.com/tsakirisand/Greece-Data-Analytics) — Public data platform with quality monitoring and an interactive dashboard.
 - [NYC Taxi Data Project](https://github.com/tsakirisand/NYC-Taxi-Data-Project) — End-to-end data pipeline and analytics portal built with Airflow, PySpark, SQL, and Streamlit.
-- [15Connect](https://github.com/tsakirisand/15connect) — A digital platform for Greek high school councils, with announcements, events, and student suggestions.
-
+-[PolisCheck](https://github.com/tsakirisand/PolisCheck) — A full-stack civic reporting platform with real-time issue tracking, interactive maps, citizen messaging, and a municipal administration dashboard.
 ---
 
 ## OPUS Studio
