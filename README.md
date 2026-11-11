@@ -1,60 +1,105 @@
+Andrew Tsakiris
 
-# Andrew Tsakiris
+About
 
----
+I’m a student developer and aspiring Data Engineer based in Athens, Greece, interested in building practical software, data systems, and digital products.
 
-## About
+My primary focus is Data Engineering and Backend Development, exploring how data can be collected, processed, stored, and transformed into useful information. I work with technologies including Python, SQL, PostgreSQL, PySpark, Apache Airflow, and Docker, while continuously developing my engineering skills.
 
-I'm an aspiring **Data Engineer** and student based in **Athens, Greece**, focused on building scalable data pipelines, analytics systems, and data-driven applications.
+Beyond data engineering, I enjoy working on web applications, AI-powered tools, automation, and SaaS projects. I’m also interested in the intersection of technology, business, and economics, particularly how software and data can solve real-world problems.
 
-I work primarily with **Python, SQL, PostgreSQL, PySpark, Apache Airflow, Docker, and AWS**, building ETL/ELT pipelines and processing large datasets. I also have experience building **web applications, SaaS products, and AI-powered tools**.
+I enjoy experimenting with new technologies, turning ideas into working projects, and learning through hands-on development.
 
-- Student & developer based in **Athens, Greece**
-- Focused on **Data Engineering & Backend Development**
-- Building **ETL pipelines, analytics systems, and data-driven applications**
-- Open to collaborating on interesting projects
-- Contact: tsakirisand@hotmail.com
+* Based in Athens, Greece
+* Main focus: Data Engineering & Backend Development
+* Exploring AI, Automation, Web Development & SaaS
+* Interested in Technology, Business & Economics
+* Open to collaborations and interesting projects
+* Contact: tsakirisand@hotmail.com
 
----
+⸻
 
-## What I Ship
+What I Build
 
-**Data & Analytics**  
-ETL/ELT pipelines, data processing systems, analytical databases, and dashboards built around real-world datasets.
+Data Engineering & Analytics
 
-**Backend & APIs**  
-Scalable backend services and REST APIs using Python, FastAPI, Node.js, and PostgreSQL.
+Exploring ETL/ELT pipelines, data processing, relational databases, and analytical systems. Interested in building reliable workflows that transform raw data into useful insights.
 
-**AI & Automation**  
-AI-powered applications and automation workflows designed to solve practical problems.
+Backend Development & APIs
 
-**Web Applications**  
-Modern web applications with a focus on performance, usability, and maintainable architecture.
+Building and experimenting with backend services, REST APIs, database integrations, and application architecture using Python, FastAPI, Node.js, and PostgreSQL.
 
----
+AI & Automation
 
-## Tech Stack
+Exploring AI integrations, workflow automation, and developer tools that simplify repetitive tasks and improve productivity.
 
-| Category | Technologies |
-|---|---|
-| **Data Engineering** | Python, SQL, PySpark, Apache Airflow, ETL/ELT |
-| **Databases** | PostgreSQL, SQLAlchemy, Supabase |
-| **Backend** | FastAPI, Node.js, Express |
-| **Cloud & DevOps** | AWS, Docker, CI/CD |
-| **Analytics** | Streamlit, Plotly, Pandas |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **AI & Automation** | Claude API, n8n, Webhooks |
+Web Applications & Digital Products
 
----
+Developing modern web applications, experimenting with SaaS ideas, and exploring how software can create value for businesses and users.
 
-## What I Value
+Hardware & Technology Projects
 
-- **Shipping over perfection** — Build, deploy, learn, improve
-- **Real-world projects** — Focus on practical applications and useful systems
-- **Scalable design** — Build systems that can grow with demand
-- **Continuous learning** — Always improving my engineering skills
-- **Clear communication** — Simple, maintainable, and understandable code
+Experimenting with microcontrollers, sensors, and connected devices, combining software development with practical electronics projects.
 
----
+⸻
 
-**Last updated:** September 2026
+Tech Stack
+
+Category	Technologies
+Languages	Python, SQL, JavaScript, TypeScript
+Data Engineering	PySpark, Apache Airflow, ETL/ELT, Pandas
+Databases	PostgreSQL, SQLAlchemy, Supabase
+Backend & APIs	FastAPI, Node.js, Express, REST APIs
+Cloud & DevOps	AWS, Docker, Git, GitHub
+Analytics	Streamlit, Plotly, Pandas
+Frontend	React, Next.js, Tailwind CSS
+AI & Automation	AI APIs, n8n, Webhooks
+Hardware	ESP32, Arduino, Microcontrollers
+
+⸻
+
+What Drives Me
+
+Build, Learn, Improve
+
+I believe the best way to learn technology is by building real projects, experimenting with different approaches, and continuously improving.
+
+Practical Problem Solving
+
+I’m interested in software that solves actual problems, whether through data pipelines, automation, backend systems, or useful applications.
+
+Technology & Business
+
+I enjoy understanding both the technical and business sides of software, from designing a system to exploring how it can provide value to users.
+
+Continuous Development
+
+I’m constantly expanding my knowledge, exploring new tools, and working toward becoming a skilled Data Engineer and software developer.
+
+Clean & Maintainable Code
+
+I value clear architecture, readable code, and solutions that are understandable, maintainable, and designed with future improvements in mind.
+
+⸻
+
+Current Focus
+
+* Deepening my knowledge of Data Engineering, especially Python, SQL, PostgreSQL, Apache Airflow, and PySpark.
+* Building more complete backend and data-driven projects.
+* Exploring AI integrations and automation workflows.
+* Developing web applications and digital product ideas.
+* Improving my understanding of software architecture, cloud technologies, and deployment.
+
+⸻
+
+Connect
+
+I’m always interested in learning from other developers, exchanging ideas, and collaborating on interesting projects.
+
+Email: tsakirisand@hotmail.com
+
+GitHub: https://github.com/tsakirisand
+
+⸻
+
+Last updated: November 2026
