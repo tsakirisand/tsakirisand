@@ -1,105 +1,116 @@
-Andrew Tsakiris
 
-About
+# Andrew Tsakiris
 
-I’m a student developer and aspiring Data Engineer based in Athens, Greece, interested in building practical software, data systems, and digital products.
+---
 
-My primary focus is Data Engineering and Backend Development, exploring how data can be collected, processed, stored, and transformed into useful information. I work with technologies including Python, SQL, PostgreSQL, PySpark, Apache Airflow, and Docker, while continuously developing my engineering skills.
+## About
 
-Beyond data engineering, I enjoy working on web applications, AI-powered tools, automation, and SaaS projects. I’m also interested in the intersection of technology, business, and economics, particularly how software and data can solve real-world problems.
+I'm a **student developer and aspiring Data Engineer** based in **Athens, Greece**, passionate about building practical software, data systems, and digital products.
 
-I enjoy experimenting with new technologies, turning ideas into working projects, and learning through hands-on development.
+My primary focus is **Data Engineering & Backend Development**, working with **Python, SQL, PostgreSQL, PySpark, Apache Airflow, and Docker** to explore data processing, ETL/ELT pipelines, and backend systems.
 
-* Based in Athens, Greece
-* Main focus: Data Engineering & Backend Development
-* Exploring AI, Automation, Web Development & SaaS
-* Interested in Technology, Business & Economics
-* Open to collaborations and interesting projects
-* Contact: tsakirisand@hotmail.com
+Beyond data engineering, I enjoy developing **web applications, AI-powered tools, automation workflows, and SaaS projects**. I'm also interested in the intersection of **technology, business, and economics**, and how software can solve real-world problems.
 
-⸻
+I'm currently co-building **OPUS Studio**, a web development agency focused on creating modern digital solutions for businesses.
 
-What I Build
+I believe in **learning by building** — experimenting with technologies, turning ideas into working projects, and continuously improving my skills.
 
-Data Engineering & Analytics
+- **Location:** Athens, Greece
+- **Focus:** Data Engineering & Backend Development
+- **Interests:** AI, Automation, SaaS, Technology & Business
+- **Currently:** Building software projects and developing OPUS Studio
+- **Collaboration:** Open to interesting projects and ideas
+- **Contact:** [tsakirisand@hotmail.com](mailto:tsakirisand@hotmail.com)
 
-Exploring ETL/ELT pipelines, data processing, relational databases, and analytical systems. Interested in building reliable workflows that transform raw data into useful insights.
+---
 
-Backend Development & APIs
+## What I Build
 
-Building and experimenting with backend services, REST APIs, database integrations, and application architecture using Python, FastAPI, Node.js, and PostgreSQL.
+### Data Engineering & Analytics
+Exploring **ETL/ELT pipelines, data processing workflows, relational databases, and analytical systems** that transform raw data into useful insights.
 
-AI & Automation
+### Backend Development & APIs
+Building and experimenting with **backend services, REST APIs, database integrations, and application architecture** using Python, FastAPI, Node.js, and PostgreSQL.
 
-Exploring AI integrations, workflow automation, and developer tools that simplify repetitive tasks and improve productivity.
+### AI & Automation
+Exploring **AI-powered applications, API integrations, and automation workflows** designed to solve practical problems and improve productivity.
 
-Web Applications & Digital Products
+### Web Applications & SaaS
+Developing **modern web applications and digital products**, combining software development, usability, and business-oriented thinking.
 
-Developing modern web applications, experimenting with SaaS ideas, and exploring how software can create value for businesses and users.
+### Hardware & Electronics
+Experimenting with **microcontrollers, sensors, ESP32, Arduino, and connected devices**, combining programming with practical electronics.
 
-Hardware & Technology Projects
+---
 
-Experimenting with microcontrollers, sensors, and connected devices, combining software development with practical electronics projects.
+## Tech Stack
 
-⸻
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, SQL, JavaScript, TypeScript |
+| **Data Engineering** | PySpark, Apache Airflow, ETL/ELT, Pandas |
+| **Databases** | PostgreSQL, SQLAlchemy, Supabase |
+| **Backend & APIs** | FastAPI, Node.js, Express, REST APIs |
+| **Cloud & DevOps** | AWS, Docker, Git, GitHub, CI/CD |
+| **Analytics** | Streamlit, Plotly, Pandas |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **AI & Automation** | AI APIs, n8n, Webhooks |
+| **Hardware** | ESP32, Arduino, Microcontrollers |
 
-Tech Stack
+---
 
-Category	Technologies
-Languages	Python, SQL, JavaScript, TypeScript
-Data Engineering	PySpark, Apache Airflow, ETL/ELT, Pandas
-Databases	PostgreSQL, SQLAlchemy, Supabase
-Backend & APIs	FastAPI, Node.js, Express, REST APIs
-Cloud & DevOps	AWS, Docker, Git, GitHub
-Analytics	Streamlit, Plotly, Pandas
-Frontend	React, Next.js, Tailwind CSS
-AI & Automation	AI APIs, n8n, Webhooks
-Hardware	ESP32, Arduino, Microcontrollers
+## Entrepreneurship
 
-⸻
+### OPUS Studio — Web Development Agency
 
-What Drives Me
+**Co-Founder | Development & Technology**
 
-Build, Learn, Improve
+I'm currently co-building **OPUS Studio**, an early-stage web development agency focused on helping local businesses establish a professional online presence.
 
-I believe the best way to learn technology is by building real projects, experimenting with different approaches, and continuously improving.
+We're working on delivering **modern, responsive, and affordable websites**, with an emphasis on clean design, usability, and practical business needs.
 
-Practical Problem Solving
+My role focuses on the **technical and development side** of the agency, including:
 
-I’m interested in software that solves actual problems, whether through data pipelines, automation, backend systems, or useful applications.
+- **Web Development** — Designing and developing responsive websites.
+- **Technical Architecture** — Selecting technologies and structuring projects.
+- **AI & Automation** — Exploring tools to streamline development workflows.
+- **Digital Solutions** — Turning business requirements into functional websites.
 
-Technology & Business
+**Current Stage:** Building demo websites, developing our services, and preparing to work with our first clients.
 
-I enjoy understanding both the technical and business sides of software, from designing a system to exploring how it can provide value to users.
+**Focus:** Web Development · UI/UX · Digital Solutions · Automation
 
-Continuous Development
+---
 
-I’m constantly expanding my knowledge, exploring new tools, and working toward becoming a skilled Data Engineer and software developer.
+## What I Value
 
-Clean & Maintainable Code
+- **Building over perfection** — Turn ideas into working projects, learn from mistakes, and improve.
+- **Real-world problem solving** — Focus on useful software and practical applications.
+- **Continuous learning** — Explore new technologies and strengthen my engineering knowledge.
+- **Clean architecture** — Write readable, maintainable code and design systems with future growth in mind.
+- **Technology & business** — Understand how technical solutions create value for people and businesses.
+- **Curiosity & experimentation** — Learn by exploring different fields, tools, and approaches.
 
-I value clear architecture, readable code, and solutions that are understandable, maintainable, and designed with future improvements in mind.
+---
 
-⸻
+## Current Focus
 
-Current Focus
+- **Data Engineering** — Improving my skills in Python, SQL, PostgreSQL, Apache Airflow, and PySpark.
+- **Backend Development** — Building APIs, database-driven applications, and backend systems.
+- **AI & Automation** — Exploring AI integrations and automated workflows.
+- **OPUS Studio** — Developing demo websites, refining services, and preparing for real client projects.
+- **Cloud & DevOps** — Learning more about Docker, AWS, deployment, and software infrastructure.
 
-* Deepening my knowledge of Data Engineering, especially Python, SQL, PostgreSQL, Apache Airflow, and PySpark.
-* Building more complete backend and data-driven projects.
-* Exploring AI integrations and automation workflows.
-* Developing web applications and digital product ideas.
-* Improving my understanding of software architecture, cloud technologies, and deployment.
+---
 
-⸻
+## Connect
 
-Connect
+I'm always interested in connecting with developers, exchanging ideas, and collaborating on interesting projects.
 
-I’m always interested in learning from other developers, exchanging ideas, and collaborating on interesting projects.
+- **Email:** [tsakirisand@hotmail.com](mailto:tsakirisand@hotmail.com)
+- **GitHub:** [github.com/tsakirisand](https://github.com/tsakirisand)
 
-Email: tsakirisand@hotmail.com
+---
 
-GitHub: https://github.com/tsakirisand
+**Last updated:** November 2026
 
-⸻
-
-Last updated: November 2026
